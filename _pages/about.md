@@ -4,8 +4,4 @@ title: About
 image: '/images/pages/about.jpeg'
 ---
 
-You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+Originally from South Africa, I have a keen interest in all things tech and use this blog to post my observations on the industry. I am currently the Senior Product Analyst working on intelligent currency routing for TransferWise's Borderless Account. Previously, I was the Product Analyst in iZettle's Growth team where my focus was on activating new users into developing a habit around taking in-store card payments. Prior to starting my career in tech, I was a Management Consultant.
