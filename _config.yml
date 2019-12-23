@@ -10,7 +10,7 @@ title:       Kenneth Bollen
 email:       'Kenneth.bollen@outlook.com'
 description: 'A site to contain my ramblings'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'http://localhost:4000' # The base hostname & protocol for your site
+url:         'http://kennethbollen.com' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/kenbollen'
 github:      'https://github.com/kenbollen'
 #instagram:   ''
